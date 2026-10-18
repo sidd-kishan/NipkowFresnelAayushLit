@@ -363,6 +363,13 @@ Before any filing decision, assemble a private dated package containing:
 The engineering specifications describe proposed designs, not verified lithographic performance.
 
 
+
+https://github.com/user-attachments/assets/80e48abd-1e2f-45d4-af11-2dabbbe243d4
+
+
+
+
+
 <img width="717" height="548" alt="Screenshot 2026-10-18 114941" src="https://github.com/user-attachments/assets/ad5b469b-1ea0-4dec-87b7-a31815ac9545" />
 <img width="321" height="588" alt="Screenshot 2026-10-18 115325" src="https://github.com/user-attachments/assets/17e5d03d-c8e5-48b9-8867-02c74559847f" />
 <img width="460" height="599" alt="Screenshot 2026-10-18 115314" src="https://github.com/user-attachments/assets/f4b59c62-b57d-42a3-aade-6ec6214a2fe6" />
@@ -373,3 +380,4 @@ The engineering specifications describe proposed designs, not verified lithograp
 <img width="308" height="653" alt="Screenshot 2026-10-18 115132" src="https://github.com/user-attachments/assets/c938230d-3914-4faf-a203-090a7fa0a129" />
 <img width="388" height="605" alt="Screenshot 2026-10-18 115057" src="https://github.com/user-attachments/assets/f9afe31c-c68c-4a2a-8aed-088c0975d766" />
 <img width="469" height="541" alt="Screenshot 2026-10-18 115019" src="https://github.com/user-attachments/assets/9e0d4cd3-988b-4c44-aff8-d206337c8b4f" />
+
