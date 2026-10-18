@@ -361,3 +361,15 @@ Before any filing decision, assemble a private dated package containing:
 - [Legacy helical-drum simulation specification](docs/legacy/helical-drum-simulation.md) — the earlier single-helix, one-input Blender demonstration. Historical reference only; it does not supersede V15.
 
 The engineering specifications describe proposed designs, not verified lithographic performance.
+
+
+<img width="717" height="548" alt="Screenshot 2026-10-18 114941" src="https://github.com/user-attachments/assets/ad5b469b-1ea0-4dec-87b7-a31815ac9545" />
+<img width="321" height="588" alt="Screenshot 2026-10-18 115325" src="https://github.com/user-attachments/assets/17e5d03d-c8e5-48b9-8867-02c74559847f" />
+<img width="460" height="599" alt="Screenshot 2026-10-18 115314" src="https://github.com/user-attachments/assets/f4b59c62-b57d-42a3-aade-6ec6214a2fe6" />
+<img width="421" height="621" alt="Screenshot 2026-10-18 115259" src="https://github.com/user-attachments/assets/8e3a1c97-3a79-40d4-9c7d-57912ab1685e" />
+<img width="368" height="670" alt="Screenshot 2026-10-18 115218" src="https://github.com/user-attachments/assets/5dc92512-9118-4885-acab-1c3d3a470a1f" />
+<img width="411" height="556" alt="Screenshot 2026-10-18 115203" src="https://github.com/user-attachments/assets/ef5aeb8e-a3f6-468f-ad0d-c757c8d8a13f" />
+<img width="297" height="646" alt="Screenshot 2026-10-18 115144" src="https://github.com/user-attachments/assets/39e6fa36-142e-43ab-9e71-8bcdc7e34a39" />
+<img width="308" height="653" alt="Screenshot 2026-10-18 115132" src="https://github.com/user-attachments/assets/c938230d-3914-4faf-a203-090a7fa0a129" />
+<img width="388" height="605" alt="Screenshot 2026-10-18 115057" src="https://github.com/user-attachments/assets/f9afe31c-c68c-4a2a-8aed-088c0975d766" />
+<img width="469" height="541" alt="Screenshot 2026-10-18 115019" src="https://github.com/user-attachments/assets/9e0d4cd3-988b-4c44-aff8-d206337c8b4f" />
