@@ -1,0 +1,18 @@
+NipkowFresnelAayushLit
+
+This project documents an open-source rotating-aperture lithography research architecture,
+including a Fresnel-inspired (non-refractive) illumination carrier.
+
+Original contributions are offered under the Apache License, Version 2.0,
+subject to third-party notices and any per-file exceptions.
+
+Please preserve applicable copyright and attribution notices and credit the
+original project and contributors in publications where practical. This last
+request is voluntary and does not add a condition to the Apache License.
+
+Project origin: mechanical television and bitluni-inspired phosphor-screen
+experiments, followed by investigation of electron-beam scanning and a
+transition to optical photoresist exposure.
+
+Note: Names of actual copyright holders and third-party components should
+be entered and verified before publishing the repository.
